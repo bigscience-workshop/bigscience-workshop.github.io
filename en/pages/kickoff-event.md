@@ -17,6 +17,7 @@ On **April 28th**, a kickoff event will take place online to:
     *   <span style="text-decoration:underline;">Session 1</span>:** 10-12am Paris Time, 4-6pm Beijing Time**, **11am-1pm Moscow**, 4-6 am NYC, 1am-3am SF
     *   <span style="text-decoration:underline;">Session 2</span>: **1-3pm New York Time, 10am-12pm San Francisco Time, 7-9pm Paris Time**, 8-10pm Moscow, 1-3am Beijing
     *   Join the session most adapted to your schedule
+*   **Links** to watch the **Livestream**, attend the **Discussions** on gather.town,   and add questions for **Q&A** are coming soon.
 
 
 ![schedule](uploads/images/schedule.png "schedule")
